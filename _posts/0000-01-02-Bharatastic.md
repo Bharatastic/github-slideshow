@@ -1,6 +1,5 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+Mere paas
+ek scheme hain
+ameeron waali scheme
+25 din mein
+paisa double
